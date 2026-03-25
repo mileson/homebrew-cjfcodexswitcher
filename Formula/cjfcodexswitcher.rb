@@ -3,7 +3,7 @@ class Cjfcodexswitcher < Formula
   homepage "https://github.com/mileson/CJFCodexSwitcher"
   url "https://github.com/mileson/CJFCodexSwitcher/archive/refs/tags/v0.1.5.tar.gz"
   version "0.1.5"
-  sha256 "f417a81be96f4f649d8489ae3ea9a2bc7826d99f5ceb81df61d6a28785f448ba"
+  sha256 "e962cf6c09b841485ccbb87bc47921a9f740962ac8fce96e3a4a0cbce3ad5b3d"
   license "MIT"
 
   depends_on "python@3.12"
