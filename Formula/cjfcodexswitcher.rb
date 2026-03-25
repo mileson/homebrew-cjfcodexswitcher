@@ -1,9 +1,9 @@
 class Cjfcodexswitcher < Formula
   desc "Codex account switcher with live quota view and agent-friendly CLI"
   homepage "https://github.com/mileson/CJFCodexSwitcher"
-  url "https://github.com/mileson/CJFCodexSwitcher/archive/refs/tags/v0.1.7.tar.gz"
-  version "0.1.7"
-  sha256 "3eea2512e0124f440372ab907c48e4b9d158bb55c2c6c7417441b1b61fe88ec8"
+  url "https://github.com/mileson/CJFCodexSwitcher/archive/refs/tags/v0.1.8.tar.gz"
+  version "0.1.8"
+  sha256 "d37d66344d2c7feb05a7481d584ed0a75e6c84a9d8fbfeea20b2dc131937a07d"
   license "MIT"
 
   depends_on "python@3.12"
